@@ -9,3 +9,7 @@ O
 tests/case-registration.test.ts,8/3/83ad6fa8154d37e92e9b30b8af413fdca078788d
 R
 "contracts/knowledge-synthesis.clar,b/f/bf883889032d2ed88f6d4524cfeb47fbfb1a5174
+P
+ contracts/treatment-outcome.clar,e/2/e24b663e38714377c2b70ac84d4664617273b2e4
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
