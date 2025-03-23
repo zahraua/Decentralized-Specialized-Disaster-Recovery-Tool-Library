@@ -7,3 +7,5 @@ N
 contracts/expert-matching.clar,4/1/417a145c78819645b272e0ae3109925025bf04f3
 O
 tests/case-registration.test.ts,8/3/83ad6fa8154d37e92e9b30b8af413fdca078788d
+R
+"contracts/knowledge-synthesis.clar,b/f/bf883889032d2ed88f6d4524cfeb47fbfb1a5174
